@@ -1,7 +1,7 @@
 # Chillax
 Movie app on mobile and web
 
-# Mobile app - Flutter
+#Mobile app - Flutter
 ------------------------------
 1st step: Open an android emulator/plug in your device
 2nd step: cd chillax
@@ -9,7 +9,7 @@ Movie app on mobile and web
 
 
 
-# Web app - React
+#Web app - React
 ----------------------------------
 1st step: cd chillax-web
 2nd step: cd chillax-web-app

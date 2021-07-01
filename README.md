@@ -1,6 +1,9 @@
 # Chillax
 Movie app on mobile and web
 
+
+
+
 Mobile app - Flutter
 ------------------------------
 1st step: Open an android emulator/plug in your device
